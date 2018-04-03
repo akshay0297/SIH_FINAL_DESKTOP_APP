@@ -1,0 +1,48 @@
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\testingDatabase.exe.config
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\testingDatabase.exe
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\testingDatabase.pdb
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.dll
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.Entity.EF5.dll
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Fabric.Plugin.dll
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Web.dll
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.xml
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.Entity.EF5.xml
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MySql.Web.xml
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.csprojResolveAssemblyReference.cache
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.exe.config
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.Form1.resources
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.Properties.Resources.resources
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.csproj.GenerateResource.cache
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.csproj.CoreCompileInputs.cache
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.csproj.CopyComplete
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.exe
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.pdb
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.login.resources
+E:\visual studio 2017\testingDatabase\testingDatabase\bin\Debug\MaterialSkin.dll
+E:\visual studio 2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.UpdateParameters.resources
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\testingDatabase.exe.config
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\testingDatabase.exe
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\testingDatabase.pdb
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MaterialSkin.dll
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.dll
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.Entity.EF5.dll
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Fabric.Plugin.dll
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Web.dll
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.xml
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.Entity.EF5.xml
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\visualstudio2017\testingDatabase\testingDatabase\bin\Debug\MySql.Web.xml
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.csprojResolveAssemblyReference.cache
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.exe.config
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.Form1.resources
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.login.resources
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.Properties.Resources.resources
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.UpdateParameters.resources
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.csproj.GenerateResource.cache
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.csproj.CoreCompileInputs.cache
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.csproj.CopyComplete
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.exe
+E:\visualstudio2017\testingDatabase\testingDatabase\obj\Debug\testingDatabase.pdb
